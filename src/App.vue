@@ -1,6 +1,6 @@
 <template>
   <div>
-    <div>
+    <div style="width:1000px;height:600px">
       <charttest />
     </div>
 
